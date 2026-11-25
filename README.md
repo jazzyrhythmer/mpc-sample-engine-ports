@@ -15,15 +15,32 @@ This repository contains port adapters, parameter contracts, pinned original FM-
 
 [![20 engine previews](assets/preview/engines-film.jpg)](https://jazzyrhythmer.github.io/mpc-sample/#engine-ports-film)
 
-The earlier film covers 20 engines. [Browse the current 22-engine collection and audio previews](https://jazzyrhythmer.github.io/mpc-sample/#engines), including Frodhes and Tenebrae.
+The earlier film covers 20 engines. [Browse the current 24-engine collection and audio previews](https://jazzyrhythmer.github.io/mpc-sample/#engines), including Frodhes and Tenebrae.
 
 [Watch on the website](https://jazzyrhythmer.github.io/mpc-sample/#engine-ports-film) · [Download 16:9 MP4](https://github.com/jazzyrhythmer/mpc-sample-engine-ports/releases/download/v0.4.0-beta.3-r1/RHYTHMER-20-Engine-Previews-YouTube-Kit-v6-Continuous-Opening.mp4) · [Instagram / Reels 9:16 MP4](https://github.com/jazzyrhythmer/mpc-sample-engine-ports/releases/download/v0.4.0-beta.3-r1/RHYTHMER-20-Engine-Previews-Reels-Kit-v6-Continuous-Opening.mp4)
 <!-- RHYTHMER FILM END -->
 
 
+
+## RHYTHMER OS 0.3.0
+
+**24 engine entries · 69 complete kits · MPC Sample 1.4 support.**
+
+[![RHYTHMER OS 0.3.0 release film](assets/preview/update-030.jpg)](https://jazzyrhythmer.github.io/mpc-sample/#update-030)
+
+Amino adds wavetable synthesis with 324 original presets. Fizzik adds physical-modeling synthesis with 31 original presets. There are 33 new kits: 32 from Weird Dreams’ original banks and one 16-voice KrautDrums kit.
+
+Break PERF held effects, A/B switching and Return are refined, alongside parameter groups, track switching, GEN/Acid/Break navigation and save/recovery fixes. Supports stock firmware **1.3.0.12, 1.4.0.7 and 1.4.0.8**; an official firmware update is not required.
+
+Use the **full SD package** so the application, plug-ins and catalogue match. On stock 1.4, enable Developer Mode before a direct installation. If using a boot manager, preserve its launcher and follow its version-specific instructions.
+
+[Download & installation](https://jazzyrhythmer.github.io/mpc-sample/installer/) · [Current manual](https://jazzyrhythmer.github.io/mpc-sample/manual/) · [Release files](https://github.com/JazzyRhythmer/mpc-sample-rhythmer-os/releases/tag/v0.3.0)
+
+Early beta. Software checks have passed; physical-device installation of this release has not been verified.
+
 ## Available instruments
 
-The matching RHYTHMER OS **0.2.0** catalogue exposes **22 instrument entries**, **36 Rhythmer Kits** and **2,888 sound selections across 27 source views**, including kit voices and shared Acid choices. These ports currently depend on the RHYTHMER host integration; use the OS full SD package rather than treating this repository as a generic plug-in installer.
+The matching RHYTHMER OS **0.3.0** catalogue exposes **24 instrument entries**, **69 Rhythmer Kits** and **3,812 sound selections across 31 source views**, including kit voices and shared Acid choices. These ports currently depend on the RHYTHMER host integration; use the OS full SD package rather than treating this repository as a generic plug-in installer.
 
 ## Ports and original sources
 
@@ -56,13 +73,13 @@ Sophie is included under `ports/sophie`, with the original DSP and notices. The 
 
 57 original electric-piano, vibraphone and marimba programs.
 
-<img src="assets/engines/frodhes-still.png" width="400" alt="Frodhes in RHYTHMER OS 0.2.0">
+<img src="assets/engines/frodhes-still.png" width="400" alt="Frodhes in RHYTHMER OS 0.3.0">
 
 ### Tenebrae
 
 Eight oscillator models and 164 original programs including Init.
 
-<img src="assets/engines/tenebrae-still.png" width="400" alt="Tenebrae in RHYTHMER OS 0.2.0">
+<img src="assets/engines/tenebrae-still.png" width="400" alt="Tenebrae in RHYTHMER OS 0.3.0">
 
 ## Build
 
@@ -93,3 +110,23 @@ Hit-responsive drum geometry, with a restrained input-driven depth response.
 
 Voluntary support helps me keep making music, instruments and open-source tools. Thank you for being part of it.
 <!-- JAZZY-RHYTHMER-PORTFOLIO:END -->
+
+### Amino
+
+<img src="assets/engines/amino-still.png" width="400" alt="Amino native UI">
+
+Wavetable synthesis with 324 original presets. Explore layered pads, moving textures, basses and leads.
+
+### Fizzik
+
+<img src="assets/engines/fizzik-still.png" width="400" alt="Fizzik native UI">
+
+Physical-modeling synthesis with 31 original presets. Shape the exciter, two resonators, envelopes, modulation and effects.
+
+## Matching release source
+
+The `runtime/` tree in the OS repository contains the matching application source. `release-ports/` contains the source snapshots supplied with this release’s engine libraries, including their original notices. Refer to each project’s licence before reuse. The compiled plug-ins are in the full SD release package. No break recordings are bundled.
+
+Built on **Melodee by Kerem Kiliç (Ellic Studio)**. Thanks to the original engine authors and open-source communities.
+
+New sources: [Amino](https://github.com/klaine/amino) · [Fizzik](https://github.com/filliformes/fizzik-move) · [Weird Dreams](https://github.com/filliformes/weird-dreams-move) · [KrautDrums](https://github.com/filliformes/krautdrums-move). Their pinned references and notices are retained in `release-ports/`.

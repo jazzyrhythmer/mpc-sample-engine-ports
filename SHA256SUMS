@@ -1,36 +1,39 @@
-bdf059b8d10d241fdda87a10015076a2f09aac282e439aa85da2dfad8c50841f  .github/FUNDING.yml
 77ae2107d7cd02d63d25162974847d27739e0c62b778bc579b5eaf9fcd8d1930  .gitignore
 370f24dd99d56ecaf42309e50886b65deb790f5975f7b6727197e01378bba629  BASELINE_SOURCE_INDEX.json
 be7a50eb447b236e404318fba0142fd5a31bbfced27029a6d6cd041cdb2a6bbe  BUILD.md
 0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0  LICENSE
 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  LICENSES/TR-MPC-GPL-3.0.txt
 04c78fe0256e957644da5f64b954ac80d71c08097d90c1fe487fe34d96bd6fdb  PUBLIC_EXPORT_NOTES.md
-4788e7bbdd85bef5149d8e7bfa538e74a3bf2abc0f54f6cbf30f50efb18e992f  README.md
+b9e5aee1570db3f2720856e5129cc39f1036a8484076f5556f4d2cbdc7c2b711  README.md
+7f02cada1fe2fc9bde8a1b1138ebdfa82011e37d10e36246f9210642255090f1  RHYTHMER_SOURCE.json
+310adc7fa2ddcd96907b7aecc50dcc27e813188106ee87adf05fd7e70bed04c0  SOURCE-ADJUSTMENTS.json
 4cb93c55599b3d916983131f335fb5d4058e2d01238e1ebdfa514c0316038348  SOURCE_ARCHIVES.md
 aebd2c79bc35638309eda2b183d8fd2ee2f2ea7ee4c6e7134fa8244e370ee576  THIRD_PARTY_NOTICES.md
-3c59a48a0369cfbabf2ba5c5f51dde6619d9c587f15e0821549e6fc8a6ee61b0  VERSION
-08deeda8daa9d38ac7d6adcb3daa9df8e78dc388f02937f79f08a4fa9ad0b652  assets/engines/acid-engine-still.png
-b3154c2fb0d690414be64e249cb10e22c504d5d93ef41c1492f60dc676731745  assets/engines/aphex-still.png
-853a02a8cd56dc33133c7918e9e05c191481a1a038f03950ddea8c83acd8c26b  assets/engines/braids-still.png
+d915cc95d6ca8f47ae297713ed46d4e5c5d99ddd29fc3c61e263bdf305f2b5b0  VERSION
+577374e12539fcb48267f82998a55994c638970415e925b9cf2182185e04b47d  assets/engines/acid-engine-still.png
+e822f271cb132df1a48ec69f14032c72165aaf77d9ab0bf4449bb6b83add2bf6  assets/engines/amino-still.png
+f301c1f5731e8ff5715f32bab65640048a709ed1f82832c07fb52fc9da352dc7  assets/engines/aphex-still.png
+f2d31df929558eb2574fb2b392d745f4f73ac54f3df28f41ed5de38e77d038d5  assets/engines/braids-still.png
 eaad8eba7f1e6508e2b9930e41fdcaf7838e4ce7aeb04249afdeace507c1d0de  assets/engines/break-engine-still.png
-92d8ed4dacc71098f66a14153c918bfc56656564bcd13f14f64215aeaac1e868  assets/engines/cs-1-still.png
-54be962cf7dc9b743869f0285f31c073356d963692037232b0217bfe47e88040  assets/engines/dexed-still.png
-c3401c2113d1e7f2835c203be5f62bd3393d3f19945daa203be3592f9fb3cc62  assets/engines/elixir-still.png
-421e0967d111f7b686ba2fcc38e09dd980d0673fec7414c7e01e24a274c55b4e  assets/engines/fm-106-still.png
-1f99e48897a6bccbd2f3e82c6de9d7483bf10bcaeded88c57bdfbc7cbf504823  assets/engines/fmini-1-still.png
-9dc2bacd1f45c054b66024f291e99e0cc591cd9a8ec4e80834b3b2d3c09d9e9c  assets/engines/frodhes-still.png
-f84543a884ea3d3086ecf10b5ad754760412420cdf2368588033ef5365741317  assets/engines/guru-600-still.png
-7b3ad9bc764cb099a7791382c66c520638e792988f893c40cd78ca0e87dc3c7e  assets/engines/hera-still.png
-87e85a9310292f22dad22a35f5545e1f9b2acc4aa9cf086f3c199e143d44e052  assets/engines/hortator-still.png
-f9fece4fa55fc1b5da6cc571a5b67d813733f9d5141276a27c43abf4de539281  assets/engines/k-wasub-still.png
-72c06c6533a47137656e6bfcf84c185489434432eff9717af7c3203dc6ce86b8  assets/engines/mono2k-still.png
-b65beb6d33453b820d86b7c5f50eea31d880f8bf819ef48f03c39c0c95e8eb74  assets/engines/obervave-still.png
-866b61d8ea4cc6a235a7235f91ee8045bc40b7b8317281dbf3f5aad00670101c  assets/engines/plaits-still.png
-47e31147fc8cde19baa07902a79a31ca8e265ed3f8223ce6d422c2eea1e57991  assets/engines/prophet-still.png
-2ae7f68fa4a833a1bdc2c69d12afb2e5653d1e018f43b0f83ec4dfbfa5e64342  assets/engines/rhythmer-kit-still.png
-69338a1af0ca5f0979e0c3ee35adebf1efca68a5921a77e4b6f6f8e8ade55c3c  assets/engines/s1vave-still.png
-7fca4e8ffc3269c2043cdffd4072cb283c217f450f1810d4aa82678e189366c5  assets/engines/sophie-still.png
-c12480d9f030aae66d1c1f4309b5cb8c6c810035052d40926caec056edeb6780  assets/engines/tenebrae-still.png
+01e18af80fde6b6438938b1d6f0c77adf71fbf7b07d8edf3f7ad7e38ded4fad5  assets/engines/cs-1-still.png
+3dec0b242b918487cc9c6aecd2d3c79ae6fb826789f1a76925fbaa0b1d6b68d2  assets/engines/dexed-still.png
+c7f15cbce766c40df62db72a407272aa9d1ee5a84394f59a3f5c9c3ca13452b7  assets/engines/elixir-still.png
+dd081c6c71c872058d0f20f30bff61cc738d697566491c59c99c816dab720858  assets/engines/fizzik-still.png
+c6fc18a9abf91819ebe53b0e788e3418ab5cb1f7b4e08399055c33e319d88bef  assets/engines/fm-106-still.png
+70427c183e7e6c2157e414f6decafc4e726c6f0780df461b188e9412ff71334d  assets/engines/fmini-1-still.png
+a94611439a74bb603d3cfbe9b8ae2c2ad4bc5ffd2e498bf99d728b2a6bcc01ee  assets/engines/frodhes-still.png
+dd3552e33f073dbcefede625649a428ad5549b714cb57053e6b5ee2a34795eaf  assets/engines/guru-600-still.png
+44f890804a6200b6d83f5e9cd655064bfb77fe59c5b74f67e6cf5d706df57078  assets/engines/hera-still.png
+46a42659b77b94003a1d8474bf93b4b3f3f27560216d86132e4fc786925b074e  assets/engines/hortator-still.png
+a89e4d0e11f737c6da8f9af4dc538c22feb7c96848cef5ca2e9e82003090f3fa  assets/engines/k-wasub-still.png
+7cf2c056833f6cb9b5b885ce02f124204249bbbfcfba191ef5bd9236eddb8271  assets/engines/mono2k-still.png
+dd65af20cd9b13135002b2f72afafd63551add6ad0e445e9fbf2580c674a8f34  assets/engines/obervave-still.png
+f01a8a20c05f1b081d9a3aaa97e61ac9b171ab869d740fe16bb740a0fab58438  assets/engines/plaits-still.png
+5d2ac16bea404708b9a632a9794f1620d5d674805dede21ffa0fc0405052528b  assets/engines/prophet-still.png
+46438b3d8bd690103afa4de63c456fdd02e264eb6230cd85f2f940ea8a6d32b2  assets/engines/rhythmer-kit-still.png
+7c9a5fcef18402b5ec6172d95d4d948fac8c8b446661ed85702383a33e2c7bc4  assets/engines/s1vave-still.png
+3b5a4e1e8b426c282834a64409982b371a6682673628495846aecfc409bf90a7  assets/engines/sophie-still.png
+706127429a3e7024588ceec3be64cd891cf0a674da47360e1dd4d435e203e229  assets/engines/tenebrae-still.png
 3e2e4eb74207873264f875fd6ea441544a48cb37c1dac36221df79ffd966f094  assets/manual/020-acid-settings-0.png
 868d7f4c7844335b458576a698d39c3ee2ca5be68005992ce2229bf7f96aa066  assets/manual/020-acid-settings-1.png
 1f07b82900e6e34638609f3d1f7ab447964e9c5d4e435608eca43cbf240874d2  assets/manual/020-break-browse-open.png
@@ -102,16 +105,7 @@ b0ee5df3de90a277dd8176ab04a497d0c7a34d10c12a8707e4b062182d87c755  assets/preview
 95aa21c0cd19424d1262fd78bf0f70fe5d2154cebd27cf41c8c664451e27d72c  assets/preview/engines-film.jpg
 3e324fd500a354ecea6e31e075fb467e6c5112ceacee57593c0150e3567e1ccd  assets/preview/rhythmer-kit.gif
 5d11a2dc1fa629407ee2dbc32063b9b738256885431223c2cab9402fbc854c53  assets/preview/sophie.gif
-29a31ab4c9d83bf0196333bd1eb62bd5021dc7b27cfd298c8ccb4bab1abf9fb8  build/workspace/move-probes/probe
-e57f1c320b8cf8798a7d2ff83a6f9e06a33a03585f6e065fea97f1d86db84052  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/LICENSE
-005403f6cd8e09ea6e6677762e074d865be7fa7d3b92238f07384321b1d3efbf  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/LICENSING.md
-ce8ee66cb52d9d54312bc5d0c3c041ce3bc8eec9f482370b80ccb29b5a9ea66e  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/Open-MPC-MIT-LICENSE.txt
-fcaf184b5bb9fd0aaa5b49ed319ac02d06ec97a7a749fe0d0047656b77b5cf15  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/SOURCE.json
-52af9df37f1a2a3dadbc0785f8753b8cea7606a236a5dbc82c9abfc92c9844d8  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/Schwung-API-MIT-LICENSE.txt
-683cd14e2db555704f5e215530963e753a829a6aef7aef392fb04c60758ea237  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/VENDORED.md
-96abb9b63f8b5547087b92951ef7c492e861eac45c153bd24440ff3835d5440e  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/module/dsp.so
-1c0aabe891d72f3762c6449e068b4632232845d6cd0c0e5bd7e323831699400d  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/plugin-meta.xml
-8829a78d89b9b0adbdc1cb71d15e65f12130a64f3030592dac710b50579f68f7  build/workspace/move-stage/Plugins/RHYTHMER - FM1 - fm106 - FM-106/rhythmer-fm1-fm106.so
+feb449cd7df086acfc5441b6f7e5ea6e5676c22e2df9e64cdebc2f281615fe57  assets/preview/update-030.jpg
 737b897be8c941d751b29233ed13d42e9695677cf984d6f3ae7dde951db7bd1a  config/acid-aphex-presets.json
 31d31546273ddc16b7d1732f18d903af4a50cb4e66abf0109d10bfa2968a0282  config/animation-profiles.json
 fc825926ae245e63ea9526fee5fecc990de43f5221b9101da3d2d7680a46a6ff  config/baseline-parameters.json
@@ -125,7 +119,7 @@ a2bec5c379a6a9fe12f437ef89f394d0e7a676f3dad84b5d5c4b7307c1aa028d  config/drum-ki
 5d70f7c60bf16a1a025b78be5c39a795446f1314830b5639f375f554357f3203  config/elixir-parameter-owners.json
 757c7913a6b184e9314deb606f73b45da970c81464ba599a04e398cffac522a9  config/engine-profiles.json
 b4c0de523b7982d22d8e25a89342714abe7f163c5658e2976c265e6b1a069be8  config/final-validation.lock.json
-0b20e9a2ea3143f58c26ba73836deb6baa840d308b0f4b47a17bf34c7b57a900  config/first-release-candidates.json
+1fe1ae657a9418de99b572bb917b7ee3b1d68138f35c44b0ae4c97e3cbc405f0  config/first-release-candidates.json
 f118d57cfd51ffc69cb28a5a33f5f0f1e01b5553be8454b58b67a3341cb0736a  config/gen-engine-map.json
 20c590ce62cdbdd2023cef52b9b3f82eacbba6581c314b090b03601aa116c5b7  config/hortator-md-kits.json
 57f3bfcd88f6a77e98998052bd3a32115e3c43a73e4c5d31c8ec8b3c524c0f6e  config/kit-only-engines.json
@@ -137,7 +131,7 @@ f88b235923be357de528f332b8b118e44a13eaaf1da7117e2e0214b631127276  config/preset-
 4d837fca9ad5df9e19652c1505b1923ee536c46138a5a54f0eff57e9634e0972  config/releases.lock.json
 1a9189e422aa6baf90a09518ed6dce9d6a72371660f7a17624fa595f321b6ad7  config/rhythmer-factory-presets.json
 99e9323cf23b0120652c61f36102f29e5e35787cafe2b261d8d5cf6296f810e1  config/runtime-source-inventory.json
-0be36d4b4e26bbbb6d7704cd4111dc046606406052f7f1cf80b336adf875e53b  config/sound-catalog.json
+ba0357ec674e85eefb36fb65aca393a4f9526193110a38e740f644a1b9970a66  config/sound-catalog.json
 6e9b7707ee297cd6f074596c4598793c3f221147fad047cbac3df73e543cfe1e  config/sound-host.lock.json
 03b2a7a6a9f2f8470d558895aa22353274d30ca7eed836755d2b22094bf8fec7  config/tr-mpc-drum-map.json
 1e54c848e19e113f0beb040d0978610c09d16cbe4509aa20a355485f83869eab  config/update-public-key.txt
@@ -190,6 +184,7 @@ f1c31b4a5766a14ea2a9f1055a0524d77a4b84a8e032b9dbe1838a71b38346f6  docs/ORIGINAL_
 95205bc6ba13c00db347af79679097f3d5616a828e9eaa15ec69a24c623a3724  docs/PRODUCT_SPEC.md
 004167f1e62b14b16ab9304b9cb0e6ed696b2b578372e21765790546fe97c5db  docs/QUICK_REFERENCE_020_EN.md
 93ae6e9fa1791abdb4e453df70ce0f006364a07a27148a6ce7f43017fea1b259  docs/REBRAND.md
+cc2ea0a3448929096914408cde27887240742aae33d24dfd794f72a04742cf1a  docs/RELEASE-0.3.0.md
 f9f9d247f5f9429df96375491afadeb4e11523abac57e02a6856accf7d0894be  docs/RELEASE_020_NOTES_EN.md
 8f374a1e8ff903252bfa9db28c02305c182fc128b4445217c46142316da094f6  docs/RELEASE_020_PLAN.md
 622ca41cfb67cccb15eed19097688f24a0b6ace2243d81c5560c8d46ed5e96de  docs/RHYTHMER_PRESETS.md
@@ -2223,6 +2218,373 @@ d949aab59a4e5ab2775752bd3c5adb8d159fb914f968cedb8f38bd215b8a3106  ports/sophie/d
 497849597c87f7dcb053a4183a537520394ad74296648136ae78d06ca6cd1a33  ports/sophie/params.lock
 0c106dcf2e640d59be14cd05991e269f0c2b3543cd9a5ddfd44705c88cee7ad3  ports/sophie/sources.json
 f6fb751dae30b48c0a3c3013d0033de0f1c359863869459e67da1ef25d8dc266  ports/sophie/vst.json
+af5e32a9f9efdd67a68c67efa4e8dd89bdea7169d16a1afda91b026c439dd9f7  release-ports/Matt Estela - VST - Sophie/VENDORED.md
+6e54dacd368e1790fd426a465b15fc26373aa1c14853bbc9f969fb3e46042a19  release-ports/Matt Estela - VST - Sophie/plugin-meta.xml
+7719410018a84816d8dfcc6dcfa5938d1dd0b531d2cdac4ed769daf2873c7d1f  release-ports/Matt Estela - VST - Sophie/rhythmer-source-name.json
+d08c3afbba85ae41940617fd71f5b501d42980072a3b5daa91e21ee7d3bfcf60  release-ports/RHYTHMER - Acid Engine/rhythmer-acid.json
+18ca6cae03bbe3b16894400131d82b151cbd542f1d672f083914e09e43c3f0c7  release-ports/RHYTHMER - Acid Engine/rhythmer-source-name.json
+6cb6b610ecc1db496445ca313f6afef5b62d9915a9b3d7d9facea1ef3300100d  release-ports/RHYTHMER - FM1 - cs1 - CS-1/SOURCE.json
+a94e2354467f2a2d2708e02c6a4acfe9fb1327993ed5045e4da9e3e01088339e  release-ports/RHYTHMER - FM1 - cs1 - CS-1/VENDORED.md
+31bc341b8e95eed4e1e3878ce4718b3290d844aab30a2780c2657527d03a1c44  release-ports/RHYTHMER - FM1 - cs1 - CS-1/plugin-meta.xml
+ceaaaab895b9b8604b097c3d375cd054d2f601a2be9320a633924f84f9e29418  release-ports/RHYTHMER - FM1 - cs1 - CS-1/rhythmer-source-name.json
+e824246ffff3e71cfe78ef52fba4cd961d3d5cf1d2257880f608fb1810e34a4f  release-ports/RHYTHMER - FM1 - drumx - DRUM-X/SOURCE.json
+f6201abd9c97f2b96cff87006f71552bf38c4cf03b825d39d6f5e4b66f3782ba  release-ports/RHYTHMER - FM1 - drumx - DRUM-X/VENDORED.md
+30315e8a4e2ae6fe6abb0ed7feb8d5565668afe61ebb6d3207c1f8610037e016  release-ports/RHYTHMER - FM1 - drumx - DRUM-X/plugin-meta.xml
+ba67effd394cb9de2c98dc619347a74934d2941fcbb0ff94c68f3e01e8e2566f  release-ports/RHYTHMER - FM1 - drumx - DRUM-X/rhythmer-source-name.json
+5e3d6c1080bfd4da48f05408a201154713a8efb6a6338d9aa6498c08dc21917d  release-ports/RHYTHMER - FM1 - elixir - Elixir Kit/SOURCE.json
+96f280a916ae3ce2566a7e3770d7b50d8177377b3bb8d94d8f8f3ce381078f16  release-ports/RHYTHMER - FM1 - elixir - Elixir Kit/VENDORED.md
+9505dd78c6c64ca946fa9abc7f67ab67e4161a483b2c0b4376dff79dd032ad52  release-ports/RHYTHMER - FM1 - elixir - Elixir Kit/plugin-meta.xml
+87c076724df9f98afae4192d81858f4166cb4ffe124edbea9c28507b78d838b9  release-ports/RHYTHMER - FM1 - elixir - Elixir Kit/rhythmer-source-name.json
+fcaf184b5bb9fd0aaa5b49ed319ac02d06ec97a7a749fe0d0047656b77b5cf15  release-ports/RHYTHMER - FM1 - fm106 - FM-106/SOURCE.json
+683cd14e2db555704f5e215530963e753a829a6aef7aef392fb04c60758ea237  release-ports/RHYTHMER - FM1 - fm106 - FM-106/VENDORED.md
+1c0aabe891d72f3762c6449e068b4632232845d6cd0c0e5bd7e323831699400d  release-ports/RHYTHMER - FM1 - fm106 - FM-106/plugin-meta.xml
+2b3c681599408548e352520d0ff916ab636f9f82c91d37b3e11b9bc665d2e5cb  release-ports/RHYTHMER - FM1 - fm106 - FM-106/rhythmer-source-name.json
+7070cdd51ab02d888e38fd7df2cc7730d3f11f908d25d68247f4d2a8a33d9ebd  release-ports/RHYTHMER - FM1 - fmini - FMini-1/SOURCE.json
+4b3e333e63484b5ae36279c39f254cf7b72dd0314fcabe181ca99713d685f9b3  release-ports/RHYTHMER - FM1 - fmini - FMini-1/VENDORED.md
+41cb8aecbf8c1ebaa5bde606c49df16354f16ae9d34d08d07496fa603c888c5d  release-ports/RHYTHMER - FM1 - fmini - FMini-1/plugin-meta.xml
+25aa19ca756e63ba2947bb671380323548cca6f98cc03f54d1028e7682c90ec4  release-ports/RHYTHMER - FM1 - fmini - FMini-1/rhythmer-source-name.json
+84846f5873c18100293763f624a3348b68a700746d04d904d907e8eb339080dd  release-ports/RHYTHMER - FM1 - frodhes - Frodhes/SOURCE.json
+0297ad083f83e0a53986e60d3bfd5d85e1d82b6013f64f8123eb69c7953a50cf  release-ports/RHYTHMER - FM1 - frodhes - Frodhes/VENDORED.md
+920e1339d1056773033ccc98ee5366fa9ce50504596c97d8feabb143ad5cdc71  release-ports/RHYTHMER - FM1 - frodhes - Frodhes/plugin-meta.xml
+e11ea19cb01a6a6d84d8485aedbcbf0365fbb1b9a7a34715776e9f2d3c327093  release-ports/RHYTHMER - FM1 - frodhes - Frodhes/rhythmer-source-name.json
+4202005c9700415b036d4c4d3f0d8a172175b1c369c89ae061e82efbddc8595a  release-ports/RHYTHMER - FM1 - guru600 - Guru-600/SOURCE.json
+354e6e87a27c2e84e51e0ba9c27c1aa92db59a964423c5a90363c1eeba421447  release-ports/RHYTHMER - FM1 - guru600 - Guru-600/VENDORED.md
+87b4087837f248a083dcdc3e20a7adaace0cfedb2d8d6baab554d2c4781e8f06  release-ports/RHYTHMER - FM1 - guru600 - Guru-600/plugin-meta.xml
+14f98a3187419e8ac35814f3bbd947e84c6feaa2410d7e44bd9f72c8fcb7e046  release-ports/RHYTHMER - FM1 - guru600 - Guru-600/rhythmer-source-name.json
+408dd5b428b98ba83fd0363b37443dab75c459b56a05106e5a51902829b402ee  release-ports/RHYTHMER - FM1 - hortator - Hortator Kit/SOURCE.json
+fb9507b52feea6c602f9a326be2e72f8b184bd19c08cb083c7a997b5551800dd  release-ports/RHYTHMER - FM1 - hortator - Hortator Kit/VENDORED.md
+d69e4438626d1d808f1c3506571b56d917107028a82c2840499d4d6fa0809d9f  release-ports/RHYTHMER - FM1 - hortator - Hortator Kit/plugin-meta.xml
+e152c61ba9acec05f8a9bfcee5952557bd8d213fc48c1a07912bedff18296811  release-ports/RHYTHMER - FM1 - hortator - Hortator Kit/rhythmer-source-name.json
+0ff001ad63742eace62fb26ec2df82cb4ca84d7a111f422afcc4e4122f6f155e  release-ports/RHYTHMER - FM1 - kwasub - K-WASUB/SOURCE.json
+46fadb4cac3f28fc6207661dcc4260cd89f37b4db9451742ef60fbe30ffda895  release-ports/RHYTHMER - FM1 - kwasub - K-WASUB/VENDORED.md
+3346a58feec222c75f05a624f8f6e4e6a650ba4813ee5deb4206c11a74f0e451  release-ports/RHYTHMER - FM1 - kwasub - K-WASUB/plugin-meta.xml
+e895a40f5aa6e57b1c5ce9b2b5fed0a58ff5ca3c148d97b93d2ce14801e97ecf  release-ports/RHYTHMER - FM1 - kwasub - K-WASUB/rhythmer-source-name.json
+0522d55dcd7d6d16c0de30dc9a608d5688cd590a3ac5c24a5fe36f0b0693dc9b  release-ports/RHYTHMER - FM1 - kwasub-kit - K-WASUB Kit/SOURCE.json
+5f156713a71b88e218df6ced49b5f6201de66826be96eb5d0c135a69215a65c8  release-ports/RHYTHMER - FM1 - kwasub-kit - K-WASUB Kit/VENDORED.md
+afa5f18ef5fc34bdf6acb6bb2bf88d0551e3176541d30f57327104235aa013d6  release-ports/RHYTHMER - FM1 - kwasub-kit - K-WASUB Kit/plugin-meta.xml
+e895a40f5aa6e57b1c5ce9b2b5fed0a58ff5ca3c148d97b93d2ce14801e97ecf  release-ports/RHYTHMER - FM1 - kwasub-kit - K-WASUB Kit/rhythmer-source-name.json
+897cae76673e52740318d3feafa996056576f6730305ff90fdcb3850cb4573a5  release-ports/RHYTHMER - FM1 - mono2k - MONO2K/SOURCE.json
+406eb394dbdc0d30945e1ce7d3cc3b90a9c7cc489a4b74f13be4fbba55980e3e  release-ports/RHYTHMER - FM1 - mono2k - MONO2K/VENDORED.md
+715e916e399b87c1417b0add4d51161d53719d4d35a85f7c7bc47cb18fef67c7  release-ports/RHYTHMER - FM1 - mono2k - MONO2K/plugin-meta.xml
+31a3b53c10ece0f66d4b41a9ac59c890f2faf929aa70bc120b59d3c77124ec1d  release-ports/RHYTHMER - FM1 - mono2k - MONO2K/rhythmer-source-name.json
+e09e25b26c72978f4a232dc51e04a0251c9a4b388a33174db48f0cf2a7b30576  release-ports/RHYTHMER - FM1 - obervave - OberVave/SOURCE.json
+c408a91ebea40e99b9f9189d5721a256b0b9afafd3ef8a69a05cf08cb67e7d50  release-ports/RHYTHMER - FM1 - obervave - OberVave/VENDORED.md
+bef73952f5062e54af35f5c52485e32b010595a2ee6e7fedfb4a78eb675e8860  release-ports/RHYTHMER - FM1 - obervave - OberVave/plugin-meta.xml
+457f0e7aa7c027b93afdc4b7b06f38ef40c8f47bcc43c6a6f0108d5f4261f00e  release-ports/RHYTHMER - FM1 - obervave - OberVave/rhythmer-source-name.json
+987242edc846b7b83591ef86fc690126c3a054e776f45581b398e0dc804492ad  release-ports/RHYTHMER - FM1 - prophet - Prophet/SOURCE.json
+a403060f31f114dc5669bd350b65aba2cb58bd2c1fdc2767e57d567a7707312a  release-ports/RHYTHMER - FM1 - prophet - Prophet/VENDORED.md
+8ec98baa9b3b46ca6ae7eaa493edacb4cb5f122ba7258b552bfdca50ba509bad  release-ports/RHYTHMER - FM1 - prophet - Prophet/plugin-meta.xml
+edb6288bcd520a2bbf9b6f62c5d9e909cfe2ef0c50606ace2e1c4aed06d250ed  release-ports/RHYTHMER - FM1 - prophet - Prophet/rhythmer-source-name.json
+64cea25f2063e5e3e4c9de416ef9ce9776b0d6a898b5feecad64ace293dd163a  release-ports/RHYTHMER - FM1 - s1vave - S1Vave/SOURCE.json
+8f0e61de7b27fc48ac774b0196b6bcc89d80361a86832f0799338330d3220578  release-ports/RHYTHMER - FM1 - s1vave - S1Vave/VENDORED.md
+40853790bc7810bafb28857d96a6fa4c18f9dadb2334d3fe5f9b0dffba854e8a  release-ports/RHYTHMER - FM1 - s1vave - S1Vave/plugin-meta.xml
+6705008d39fe4b51d2ae23a96526adccf8f56c3450e6907b2203c78276a6c017  release-ports/RHYTHMER - FM1 - s1vave - S1Vave/rhythmer-source-name.json
+c92523ded0020bdcc7c0e3432cbf377b00e1731fda3eb3072953562a64960caa  release-ports/RHYTHMER - Move - amino - Amino/SOURCE.json
+ce8ee66cb52d9d54312bc5d0c3c041ce3bc8eec9f482370b80ccb29b5a9ea66e  release-ports/RHYTHMER - Move - amino - Amino/Source/Open-MPC-MIT-LICENSE.txt
+c63696932e625fbf46fa90231efe4d79be95d17820a4e29bac9838a4620ed64e  release-ports/RHYTHMER - Move - amino - Amino/Source/README.md
+19e6f0b7fd0a660f0f396afb480520172f283a502c8d162e0128f62caa72a473  release-ports/RHYTHMER - Move - amino - Amino/Source/SOURCE-MANIFEST.json
+22d5fcf9cd119f3734f6b3c099efa8b9a6bd50ed689bf77b210a4d0284766f72  release-ports/RHYTHMER - Move - amino - Amino/Source/build-linux.sh
+52af9df37f1a2a3dadbc0785f8753b8cea7606a236a5dbc82c9abfc92c9844d8  release-ports/RHYTHMER - Move - amino - Amino/Source/common/move-sdk/LICENSE
+e6b8933b0bbf843f52101853b0f76e22aa0d7bb8e32fa0b50ccc483a5f79a78e  release-ports/RHYTHMER - Move - amino - Amino/Source/common/move-sdk/UPSTREAM.json
+35d6d67d3dc91b3897d7b6b6d58c5277ec92c8384a68c1be3bebec7948c5f3cf  release-ports/RHYTHMER - Move - amino - Amino/Source/common/move-sdk/plugin_api_v1.h
+09ea2383609bb0c7faa9609f5b1f6bf5b0d0d9ccb2298298579072b5fbcee1d4  release-ports/RHYTHMER - Move - amino - Amino/Source/common/move_loader.c
+42282b4aac25a26c7ec39be967a0d18c4f288f83a03c35b6fb9fa2707a37601f  release-ports/RHYTHMER - Move - amino - Amino/Source/common/move_state.h
+c3883d2fd041ffd0b40e127ab093af28a603f64d377f6a6eb03854d93924d580  release-ports/RHYTHMER - Move - amino - Amino/Source/generated/params.h
+bfc5c6c447b13d7d0feb5516d3189e3789fc878dc4481bd77b74647c8077d2a6  release-ports/RHYTHMER - Move - amino - Amino/Source/generated/vst2_wrap.c
+c92523ded0020bdcc7c0e3432cbf377b00e1731fda3eb3072953562a64960caa  release-ports/RHYTHMER - Move - amino - Amino/Source/port/SOURCE.json
+7cfbd6404688b00dcc929bac6f6036d1e006bac60f6de19cb0f69b71590eb888  release-ports/RHYTHMER - Move - amino - Amino/Source/port/VENDORED.md
+d01989735a2a888ed5762d1f5b9ede1209882642cc98dbbc738d25c640c59594  release-ports/RHYTHMER - Move - amino - Amino/Source/port/contract.json
+007b2aa94e8aba0c1b725fbd0f4464fcf102ab12ee76f000ba43ff541700ac83  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/LICENSE
+72dceb7541478c23462e6e27787f646110dbafad2298d6d32fbb115806fd45ca  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/README.md
+212eab165512b75d39e45becd143c66542718ac78ab1fc631fe822dac34bcc6f  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/THIRD_PARTY_NOTICES.md
+8ac7374890eb4fb1d9ae7eb0c558b22ac3152f1ac89fb379fe910a61f4e5dd3a  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/amino.c
+491c69d1badeb33ca687c5ed37652d612470f6844750c2f6253fd2cb8319bafd  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/amino.h
+9376922d824e946c188fdb5a796f995731addc91257e022d9d6f4b0f65d30276  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/contract.h
+304a5584fbce577b81f78c4175cccb11994b823f73fd8024c05f9c71e7d85c1b  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/contract_gen.c
+ef835c2bfd0c113f01c087637595e203175dada7dc501ce26fbdbf4681892e07  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/factory_presets.c
+01311ad40868a2bb21d30f0598745eec2daef9f92a399bbc9f93da08043e75bf  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/factory_presets.h
+67800cc0bb60e84eba1d8b5d23a811c1f2b34d81a83a11a1bba4e0bc843e8496  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/fx.c
+22b88526132847111e4b0f805210025a8250e81adf779d2b718d46e705dc7fe3  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/move_info.h
+c4baeb0d2208dbc870a0ee0b5801243eecdfc2ee4e3db42342a735c8c3760e2c  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/params.c
+1511c948a5bbade6abbe873d72e3215e14e3abb3ddb6575dfaf43cdec577ea0a  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/params_gen.c
+25dc97d446570e1e6b03b24a01e327d7861a3e3b863431939f809e4e56fe0904  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/params_gen.h
+8ebdc47c34188a5223f5ae765cacd06a399ccfee746cea3e13561ac3835f11aa  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/plugin_api.h
+4b1c2f2725a73a8016a383fc9184f57ef24b9ce8528a33090301fdabf98eba20  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/util.h
+721f30dfa1e38e678583ecf7a0a3d5df605bb1fb8e612374754c19b817991f3c  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/voice.c
+b69281c064acb1550ee4ec77e530cab1c2ed37f5fbef7b5068ab88b44fbaad13  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/wavetables.c
+81f7d2550355dac4ae19df4bc8e3e288f493a89b45e498d0bb2bb8df35cb0b43  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/dsp/wavetables.h
+2b781fb91c56e82643231b7492a44b610392ac23adbb7e843985437a797d769a  release-ports/RHYTHMER - Move - amino - Amino/Source/port/original/src/module.json
+fee709ce627a753f69a5a64aabe6b4246cdc421ab90fdf9f2df78d1e51c2a97b  release-ports/RHYTHMER - Move - amino - Amino/Source/port/params.lock
+ff247e1df6872a42dca31e55e8d0cef6f4ea2aa12021d6def4789476b4d7dc13  release-ports/RHYTHMER - Move - amino - Amino/Source/port/vst.json
+418d16dba568ca5fae583a6966fd45a1aa4ed33beda08db054a07abb7667970f  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/engine.h
+ca138b713de1378fc2f7fa86071d5cc82ab3dcd85e6b9fe6961cfa661dabb3b5  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/fast_cores.h
+160528d4108bc4013f84a8e9e5793e8bc43d13ec210ce6d58bdcec43d0580108  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/plugin_dir.h
+e6b0c386779c1e11897a6697fbcba67f39472424aa49bbaff2bdc6886320e9a1  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/popup.h
+c1b8d02dc78e3f92cd6c50ff5412cc0259076857b6e9495c37e2d1da395f063c  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/resample.h
+b7d4c9e78a5ca1cf7b374ca89a061e8aa2fab30a1d2d96b7594d1121c4f407ae  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/sample_draw.h
+3f5cedc459fa4a2116a07fa4299610c6b0748228327ec3c2784f70f9d85446d8  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/sample_page.h
+d78da3269dfed6b1a2d0c588dc9631dc5fa91ec8d8cb4cfa630eae8368fd75a5  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/vst2_wrap.c
+393be966ccbc1f44f2834713b20d0abe03f9bf92d80ea89742c0f5565275a932  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/vst3_abi.h
+cc4d56199a8bab06f3430f9683bb5e3b04671584ea09e1ba7af62aa81d1fcb4e  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/vst3_editor.c
+1d3a45f6dfe6dcf55c4081a564a35e60904c80c7c8009f8c630cc37c1da96c23  release-ports/RHYTHMER - Move - amino - Amino/Source/wrapper/vst3_wrap.c
+7cfbd6404688b00dcc929bac6f6036d1e006bac60f6de19cb0f69b71590eb888  release-ports/RHYTHMER - Move - amino - Amino/VENDORED.md
+d01989735a2a888ed5762d1f5b9ede1209882642cc98dbbc738d25c640c59594  release-ports/RHYTHMER - Move - amino - Amino/contract.json
+007b2aa94e8aba0c1b725fbd0f4464fcf102ab12ee76f000ba43ff541700ac83  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/LICENSE
+72dceb7541478c23462e6e27787f646110dbafad2298d6d32fbb115806fd45ca  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/README.md
+212eab165512b75d39e45becd143c66542718ac78ab1fc631fe822dac34bcc6f  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/THIRD_PARTY_NOTICES.md
+8ac7374890eb4fb1d9ae7eb0c558b22ac3152f1ac89fb379fe910a61f4e5dd3a  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/amino.c
+491c69d1badeb33ca687c5ed37652d612470f6844750c2f6253fd2cb8319bafd  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/amino.h
+9376922d824e946c188fdb5a796f995731addc91257e022d9d6f4b0f65d30276  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/contract.h
+304a5584fbce577b81f78c4175cccb11994b823f73fd8024c05f9c71e7d85c1b  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/contract_gen.c
+ef835c2bfd0c113f01c087637595e203175dada7dc501ce26fbdbf4681892e07  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/factory_presets.c
+01311ad40868a2bb21d30f0598745eec2daef9f92a399bbc9f93da08043e75bf  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/factory_presets.h
+67800cc0bb60e84eba1d8b5d23a811c1f2b34d81a83a11a1bba4e0bc843e8496  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/fx.c
+22b88526132847111e4b0f805210025a8250e81adf779d2b718d46e705dc7fe3  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/move_info.h
+c4baeb0d2208dbc870a0ee0b5801243eecdfc2ee4e3db42342a735c8c3760e2c  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/params.c
+1511c948a5bbade6abbe873d72e3215e14e3abb3ddb6575dfaf43cdec577ea0a  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/params_gen.c
+25dc97d446570e1e6b03b24a01e327d7861a3e3b863431939f809e4e56fe0904  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/params_gen.h
+8ebdc47c34188a5223f5ae765cacd06a399ccfee746cea3e13561ac3835f11aa  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/plugin_api.h
+4b1c2f2725a73a8016a383fc9184f57ef24b9ce8528a33090301fdabf98eba20  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/util.h
+721f30dfa1e38e678583ecf7a0a3d5df605bb1fb8e612374754c19b817991f3c  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/voice.c
+b69281c064acb1550ee4ec77e530cab1c2ed37f5fbef7b5068ab88b44fbaad13  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/wavetables.c
+81f7d2550355dac4ae19df4bc8e3e288f493a89b45e498d0bb2bb8df35cb0b43  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/dsp/wavetables.h
+2b781fb91c56e82643231b7492a44b610392ac23adbb7e843985437a797d769a  release-ports/RHYTHMER - Move - amino - Amino/corresponding-source/src/module.json
+f4dfbe1d03201ead5ef233035f1b4a4b2e5acbc137b61ff00d1b5217361fc148  release-ports/RHYTHMER - Move - amino - Amino/plugin-meta.xml
+107d454579b2e05f1a3c273c8fc8e4bf121c81cacfccc1ed0cac6b88bc879b4f  release-ports/RHYTHMER - Move - aphex - Aphex/SOURCE.json
+0829c43c3d6c51da92db24c117419c9098c4252a71e73b38a7b4a7e35260546b  release-ports/RHYTHMER - Move - aphex - Aphex/VENDORED.md
+6a71b5114f57cdc47e9b9fd6f27350f5f23d6a285c703e090c7e9643c1189d2f  release-ports/RHYTHMER - Move - aphex - Aphex/plugin-meta.xml
+f04d26eb44a5a0a4b981856c9abe85f5faae6deb4e1f84268931a073ac761de8  release-ports/RHYTHMER - Move - aphex - Aphex/rhythmer-source-name.json
+a19c24972ccd6734fb253262c89382aacaf4303994435410f30fbfcc9247d3ad  release-ports/RHYTHMER - Move - braids - Braids/SOURCE.json
+c33307b713b4a118fc3344abf04f1d4150836b0922f611ac20a9a054b39f06a1  release-ports/RHYTHMER - Move - braids - Braids/VENDORED.md
+678494259941b36310670d3ca525020c5acda1968697dad702df373ec8e77b3f  release-ports/RHYTHMER - Move - braids - Braids/plugin-meta.xml
+f096107487cc860f8ca3d5c1b49f6753a21294059fa1329052b5194e60608e4f  release-ports/RHYTHMER - Move - braids - Braids/rhythmer-source-name.json
+48b057ac4f45fe3b1b1128c31bf2ad2c6188851e79c6f6fc077376dd50a6f1fc  release-ports/RHYTHMER - Move - dexed - Dexed/SOURCE.json
+98893d1c07b687d39aa286018f4adb1ed25839ef2afa879b33cde879c86122a1  release-ports/RHYTHMER - Move - dexed - Dexed/VENDORED.md
+0342497335d093f3c37a5baac86a68cbda2e6cc373d1f95d86b737fe41e627fc  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/.gitignore
+3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/LICENSE
+c30e1ef8f527f88292f936c2311f4214def3f6ca7cf8ef05bdf2f54355df9ff3  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/README.md
+28c9947bb43afd99abf2df1c0ac6afc24eca907c72566c456af9de7df1994b9d  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/THIRD_PARTY_LICENSES.md
+6941967c5098ce318320aef59ac7e7397acb57dfca1bb457457f0fd93ae43581  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/Dexed_01.syx
+2b933e6ac10312a8ebd5f48c010c5af2cfc495a0a952508c2a8dddba6243aeeb  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_01.syx
+ea338909ab793412441ffb057dc2f9e66018c3f1e1e95ccc29fb59f0e886e970  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_02.syx
+9542aa1ced33d4d967ef022ea4a073175215cd7380321ab92828a9e124597444  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_03.syx
+e26aaf82c0f3cda30e375140dfd21d8081dbd7c58322d6fd28769662f85bd797  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_04.syx
+d7214b157033e7928331710e1dd6b72343f73bd11c575f8ad0237164710995b6  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_05.syx
+6f05b4ca73f6dd7c7d0f8692a8737fc63ad58d2132e19623f2da8503fade11a9  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_06.syx
+30801366903eb6299d098c8a2eb5b15d75b225d1f6eacb684cb8a254aed1b0c1  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_07.syx
+e59c624553629f74ff13c4fe473930fa92eb3c0bd833ac33480aaf09df178116  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_08.syx
+0602cba53fffe690f5c6d73eff8b4c97831469bb2005db49dd5e0d1539ace0f0  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_09.syx
+15596bc74d65473b308fcf7d8f2197c02596e9736a7b2da771af690cb060cd11  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_10.syx
+10de585d9f8deb5218018324f1786d15ebbb517fa5314696f158eef0e951951d  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_11.syx
+f10dba23d0f8b8d0f7551b5d07022dbbeb06146213c33b0489c36f7161b394b1  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_12.syx
+6118576ae11422c596dbc8db4e89a6af50e6c9c0ed2bd7c364003fe272882955  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_13.syx
+5a4af9f0eb7edde9ba3f72bf0632e0e4569bafd9cd66c51910d43e0e949475c9  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_14.syx
+96d341eabc8bcaa339822b347e8c6ae92530d11f08cb7330abd493ac40615340  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_15.syx
+d47a35f0b9285301b8706e947f0795cdffcd61150086369f9b72145e26c2296f  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_16.syx
+70e7cb2eb5bbf428c7c54a759d4cfa88bdf5aa513ae4235844c4b586f2a27038  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_17.syx
+5aabedbde9c18cb7a0006323ff822019d6ec3b456578c7e71d528c1e46df01af  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_18.syx
+e146ce998c89397f8493c74f6d5c287970ac7723338e4889017ce3509f728235  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_19.syx
+6e93ea08ad1b2058684d0951742e8ecef79169c5885978830eacdfb2658d491f  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_20.syx
+fd8d2ec94f123b89ecb72d48ce49aa73b58dc64ce869baf1f3ed5044b824037d  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_21.syx
+9699da0919e82f1276956fd45e9432f17f6909a5e7468a068eab27ca25f0de01  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_22.syx
+4db1e9c63e6420a62bdc3b97d550cdfc9814b2abd6e2c59ac949cc5b5e7c87f4  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_23.syx
+9aa7f4a24dabcb86e903e654192d2a32cb1c4f3d624dd4c5233ea35f18c167b5  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_24.syx
+437056ec8934808f6967d74d929bf5c14ad2294dc4a6095982785bb0a0b5cb0b  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_25.syx
+4fc0ff6395f4ed2230b899233b226427df1c8ef65977dbe03a6d57d1cbb0591e  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_26.syx
+d12219ab6a53efa2b9e075748afa07d1eecfd68e3cbf780de889693a614e7405  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_27.syx
+6d665072f021c0824b11096e1685de70fa0f07f15ef66c563a06f245fc8b92ff  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_28.syx
+bff2248e0e5aa82de6400ce696bf8f1c905249db82171bd0a998f49d63a8381a  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_29.syx
+2bbc0afc121e59d73c748a70b1604dc23df439f26b50345e5bac4107920582e6  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_30.syx
+2a83e36c82b8947ff8dc596fdf133c33701db8d9f70201c9a3cd8c6468f624a1  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_31.syx
+657e4bd5aad7b2f4875f0b32c5856523118205b77c7b6607af35dc513ce9f65d  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/banks/SynprezFM_32.syx
+cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/licenses/MSFA_APACHE-2.0.txt
+fd8e63d7d2ea56ccc9658472b1d84f9a5d9c6afae1bd324657016fd167e4a11c  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/release.json
+33d46eab29550d346d26e6dc06a698e5ec1a5133b324288faf0fefb694579923  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/scripts/Dockerfile
+992b838cc0aaca70280539a01e3536c181cea5259562c88dc354bc698dacc78b  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/scripts/build.sh
+8ad01fe0d2fac1204bb0506e4af73288f905ba18d26f86db875c6a10562b3d9b  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/scripts/install.sh
+472d717569b7f25b211fc3d04c7f7964ed1ffc4c63041d6ab806fa4aeb46c024  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/Dexed.h
+b524ffb55e4f47196708f424ab0c52ce1af236fb4981256e1d3f666d1f517a5f  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/dx7_plugin.cpp
+6140a81aacae153220ce80aa58f5d7efcd5b3a2c8389fef14ed35deb14d62caf  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/aligned_buf.h
+ac3e0e21e335a19165f72a9fd05cba7802e3a966466bb42c55b6251a6a42e9d7  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/controllers.h
+88185eaeb14c9cca3b944d929bafe232abb6a2c19536c69ba05cc4634b4d54e9  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/dx7note.cc
+b5bffd672b91d99d78a82ec418f1b4fbff8123a8e65996477c6d738a5953a325  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/dx7note.h
+a6d10f3cab97bf081ec551883aa39abdf40c1c5339f1009ba837f3e1027dcbbf  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/env.cc
+6936df4cc9dc41c2ee4a3fd19a2669976e3e245e7a7795392bd561cd778abe36  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/env.h
+dff6dfd8af6f0a470360c2d2fa98aa7ae5208c27b83c9229ffccbc84815930da  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/exp2.cc
+23aa480e221e5d1f928a5ccab654a9c01a80eb0b610fd66d9364af09d18cdda8  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/exp2.h
+3febb3b2d73299636982c373126db4263ba67f5001241d5cbb1bd50357829e87  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/fm_core.cc
+528389d74d0e136a4f8167047e5ed11730f2663938eb71454c8922780ee4a280  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/fm_core.h
+ad00f2c63bf8163624a367478969f5a250568a9c6c0dcee348a4eb0b7848b21b  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/fm_op_kernel.cc
+77c12aae2c5c3c2cacd541e693e4fdbc28f474c8446aa5d6711cf4908ebb07e6  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/fm_op_kernel.h
+f46ddab0d296f1a82d2ef6826f7e431cad97967418a37fdb486052a4187dcaf8  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/freqlut.cc
+d319ee2d35e8e8e2c860b6fc2a2d1382bf5782d1d147264914325ca41f89f00b  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/freqlut.h
+63a4da54b7a9d6161f355ac3a4a293e21c63e1295ca43c8fe1fcd586fe529729  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/lfo.cc
+d21527675911a53f6d05b0c1ece3eeb08b906ae4513c36a8e2de02d628934ec4  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/lfo.h
+8eefca6a1ea82ba46b46a736c9b98da780ef0ad69b008e83379a871515751266  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/libMTSClient.h
+a03078ae9e62aeb8808df4b8dd02fdb941dc90e04f4840dcf25af6c785e0427d  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/module.h
+99529ae7ed0ccc153af765da100f205ed84cbf56113f2db1ec24e29175e85078  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/pitchenv.cc
+be825b9272fe59bd7faf47b4878fdbd756f502ca3b4364d2934a7f5dafa0abe4  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/pitchenv.h
+f03fb9e9bf6c111f5bca404a515d2919b333f03a1fce71051419b040b5e4fdca  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/porta.cpp
+7970dcd3d2ec929b0827782a7fb05b6e36b981162a7891026c307210715e95d2  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/porta.h
+ebb96ae8460af68da025659a329f72d2c64301673ad83ef54a7ac20590ad7e65  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/sin.cc
+b57300e93e18a4262d7f0dec84642a7da228704bec1fddd481d2ab85ed805311  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/sin.h
+8aa3de2de1a7d303b34cae2b0cf0837e9e476ab640ff02dbf4d59ccf23e96b50  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/synth.h
+66f30cceac50f95a274a8c2494d2b823242315cdce108e41c61347845e53af66  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/dsp/msfa/tuning.h
+577e66e086f8ba205e842a131c9c46c0b0e0b0a1c5b0e0e8a3f0997e404a5e66  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/help.json
+ba4b4e428f3dd0d07e16e01ef0d977f33df67383a3ad6dfca1be912a5e573d83  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/module.json
+0b5f4cc6909fd12270dea8d926d1450e71c73ae4798df2a481d04b8141ef8e4d  release-ports/RHYTHMER - Move - dexed - Dexed/corresponding-source/src/ui.js
+e2a1a881eefc1e7a11f65599f9efb980163938f086e77b6f3261e40763afe92a  release-ports/RHYTHMER - Move - dexed - Dexed/plugin-meta.xml
+b6d034e1c1b75e25ddfb7ce0ba00e58709a1ca2fa657f831a7cf00f54db8c94c  release-ports/RHYTHMER - Move - dexed - Dexed/rhythmer-source-name.json
+04a01045bf925bea3b02728417a7a889bcc0b66465301bc733b2fae9ff324026  release-ports/RHYTHMER - Move - fizzik - Fizzik/SOURCE.json
+ce8ee66cb52d9d54312bc5d0c3c041ce3bc8eec9f482370b80ccb29b5a9ea66e  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/Open-MPC-MIT-LICENSE.txt
+2af5b2754796181cd6691cf9c10fddb8af94a42aee82062520cbd019e9b43d3e  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/README.md
+bddbdb95925425b040d8f80310ab6df02c718efe2776bfc75257cbf07c4d6415  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/SOURCE-MANIFEST.json
+24842ce691fb9a106817ccb0cc413c600c12d10e288d128f443af4f890703760  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/build-linux.sh
+52af9df37f1a2a3dadbc0785f8753b8cea7606a236a5dbc82c9abfc92c9844d8  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/common/move-sdk/LICENSE
+e6b8933b0bbf843f52101853b0f76e22aa0d7bb8e32fa0b50ccc483a5f79a78e  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/common/move-sdk/UPSTREAM.json
+35d6d67d3dc91b3897d7b6b6d58c5277ec92c8384a68c1be3bebec7948c5f3cf  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/common/move-sdk/plugin_api_v1.h
+09ea2383609bb0c7faa9609f5b1f6bf5b0d0d9ccb2298298579072b5fbcee1d4  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/common/move_loader.c
+42282b4aac25a26c7ec39be967a0d18c4f288f83a03c35b6fb9fa2707a37601f  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/common/move_state.h
+ece7ac8e8fa6d611c386ab7fe78e3804cce0e47710fbbc210d04a7c4680182ee  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/generated/params.h
+bfc5c6c447b13d7d0feb5516d3189e3789fc878dc4481bd77b74647c8077d2a6  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/generated/vst2_wrap.c
+04a01045bf925bea3b02728417a7a889bcc0b66465301bc733b2fae9ff324026  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/SOURCE.json
+06615efeb1df8e1a8df962cb801c45589b73ec90c560e14c15b90097fc3c1c3f  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/VENDORED.md
+9387c4f2ee9a964ba58595663d68599b98cc8c996185dc31fdb70bcb684ae9fd  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/contract.json
+f0204664842b926c1a96a331fe03f61010964366c745ec5f43c055a51fa44020  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/original/LICENSE
+5ac7194429b30ec09542e1fc8f3b83d0e837b331825fc08cd65bf638ff5b3ce0  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/original/README.md
+c7fd923cec19d2c9c5792cb789bc97af9cb511ac3d1126061a3993b44c792c68  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/original/src/dsp/fizzik.c
+eb97a0921ac06297042a3e7b2939cfb200168d588bdbbfc55a73bfe44a84892c  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/original/src/module.json
+d5d95314bbb709d151d2d6f2243c2c2064ad3f58e1b595f77b2ca15c05901e65  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/params.lock
+38171e3977a9ce88b685da484028f0829e72e0488745e9df132f83e5f5fbc872  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/port/vst.json
+418d16dba568ca5fae583a6966fd45a1aa4ed33beda08db054a07abb7667970f  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/engine.h
+ca138b713de1378fc2f7fa86071d5cc82ab3dcd85e6b9fe6961cfa661dabb3b5  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/fast_cores.h
+160528d4108bc4013f84a8e9e5793e8bc43d13ec210ce6d58bdcec43d0580108  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/plugin_dir.h
+e6b0c386779c1e11897a6697fbcba67f39472424aa49bbaff2bdc6886320e9a1  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/popup.h
+c1b8d02dc78e3f92cd6c50ff5412cc0259076857b6e9495c37e2d1da395f063c  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/resample.h
+b7d4c9e78a5ca1cf7b374ca89a061e8aa2fab30a1d2d96b7594d1121c4f407ae  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/sample_draw.h
+3f5cedc459fa4a2116a07fa4299610c6b0748228327ec3c2784f70f9d85446d8  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/sample_page.h
+d78da3269dfed6b1a2d0c588dc9631dc5fa91ec8d8cb4cfa630eae8368fd75a5  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/vst2_wrap.c
+393be966ccbc1f44f2834713b20d0abe03f9bf92d80ea89742c0f5565275a932  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/vst3_abi.h
+cc4d56199a8bab06f3430f9683bb5e3b04671584ea09e1ba7af62aa81d1fcb4e  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/vst3_editor.c
+1d3a45f6dfe6dcf55c4081a564a35e60904c80c7c8009f8c630cc37c1da96c23  release-ports/RHYTHMER - Move - fizzik - Fizzik/Source/wrapper/vst3_wrap.c
+06615efeb1df8e1a8df962cb801c45589b73ec90c560e14c15b90097fc3c1c3f  release-ports/RHYTHMER - Move - fizzik - Fizzik/VENDORED.md
+9387c4f2ee9a964ba58595663d68599b98cc8c996185dc31fdb70bcb684ae9fd  release-ports/RHYTHMER - Move - fizzik - Fizzik/contract.json
+f0204664842b926c1a96a331fe03f61010964366c745ec5f43c055a51fa44020  release-ports/RHYTHMER - Move - fizzik - Fizzik/corresponding-source/LICENSE
+5ac7194429b30ec09542e1fc8f3b83d0e837b331825fc08cd65bf638ff5b3ce0  release-ports/RHYTHMER - Move - fizzik - Fizzik/corresponding-source/README.md
+c7fd923cec19d2c9c5792cb789bc97af9cb511ac3d1126061a3993b44c792c68  release-ports/RHYTHMER - Move - fizzik - Fizzik/corresponding-source/src/dsp/fizzik.c
+eb97a0921ac06297042a3e7b2939cfb200168d588bdbbfc55a73bfe44a84892c  release-ports/RHYTHMER - Move - fizzik - Fizzik/corresponding-source/src/module.json
+052010f3000ea412c888a87696ac1f4e7a595d939137457beaed647f8fb7cfdb  release-ports/RHYTHMER - Move - fizzik - Fizzik/plugin-meta.xml
+12af3b4413a573af403cc2d1c4f4b23180006a50175348497c40a26c25309fcb  release-ports/RHYTHMER - Move - hera - Hera/SOURCE.json
+c54e77eee39288e4b7eed38352927f116c4a62ad4bbd07ac9a053f9774d8766c  release-ports/RHYTHMER - Move - hera - Hera/VENDORED.md
+ac22f4db60d025af2aa3bf835449b3a47b8e99fff11abd82fb683e87635c85f8  release-ports/RHYTHMER - Move - hera - Hera/plugin-meta.xml
+58f835d3ddc1f5fe2fba27716aed26fb7016f38e8e55e7a10853a82b66878f52  release-ports/RHYTHMER - Move - hera - Hera/rhythmer-source-name.json
+079b8824860ae6d2ea0bcca0fdd92c8710b97dd242a1feb66db34d3168cc981e  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/SOURCE.json
+ce8ee66cb52d9d54312bc5d0c3c041ce3bc8eec9f482370b80ccb29b5a9ea66e  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/Open-MPC-MIT-LICENSE.txt
+30fcc0d6f4713b46fe6f334f25f28d130894daeea5d1d98c7617159f24f18476  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/README.md
+92a2b0627aa0a6d78f981e98ee38921233659999c438136855a960acee7f780a  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/SOURCE-MANIFEST.json
+e06bbdf10c730b8ae403484be8d3ffdf6e5b0207f026d76088dda3b6c68f8ed9  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/build-linux.sh
+52af9df37f1a2a3dadbc0785f8753b8cea7606a236a5dbc82c9abfc92c9844d8  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/common/move-sdk/LICENSE
+e6b8933b0bbf843f52101853b0f76e22aa0d7bb8e32fa0b50ccc483a5f79a78e  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/common/move-sdk/UPSTREAM.json
+35d6d67d3dc91b3897d7b6b6d58c5277ec92c8384a68c1be3bebec7948c5f3cf  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/common/move-sdk/plugin_api_v1.h
+09ea2383609bb0c7faa9609f5b1f6bf5b0d0d9ccb2298298579072b5fbcee1d4  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/common/move_loader.c
+42282b4aac25a26c7ec39be967a0d18c4f288f83a03c35b6fb9fa2707a37601f  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/common/move_state.h
+5111c26bcde98d39063f35490344ecd4185e5603c32dbaf1feea7f35271f3579  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/generated/params.h
+bfc5c6c447b13d7d0feb5516d3189e3789fc878dc4481bd77b74647c8077d2a6  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/generated/vst2_wrap.c
+079b8824860ae6d2ea0bcca0fdd92c8710b97dd242a1feb66db34d3168cc981e  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/SOURCE.json
+f113affef7a92c718299c49cc52a5b4f49a0285972b6b39fd400177934ad2d98  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/VENDORED.md
+65019f9d078daa0894b957c40e26a1802f3b56c0f8f9f4f03bb1c612a5dedf07  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/contract.json
+e42d79c0084041693bf9106dc54b02899dac6cdd0bfaa524c7b2f59a35eaf86d  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/original/LICENSE
+fbc0d8e246fc87470aec571e4d599e4ffdd0f2475d6d63ad3bd9e4e31beb4b34  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/original/README.md
+60d3dde47aa10fe6ea735e6a0841b84f5e95428824f0445057422ac580dd53f4  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/original/src/dsp/drummer_one_voices.h
+8c6ef7f744b04b960804714bd06865629d3870b1c020c52c5c60ae7c84c8d8d8  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/original/src/dsp/krautdrums.c
+2850fa0d53d1b240a62a62dd246c5a9fa29f4d1f7ed7c16ee03ee39afa7be46a  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/original/src/module.json
+71ca602d841411b266bb66b8c7f0aaa2b9617757795d40c450858d3fcc5af29f  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/params.lock
+981386f17b32f02ec3d2e150bb09fc2edfbcaca1886eb713fd7aacada20712ed  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/port/vst.json
+418d16dba568ca5fae583a6966fd45a1aa4ed33beda08db054a07abb7667970f  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/engine.h
+ca138b713de1378fc2f7fa86071d5cc82ab3dcd85e6b9fe6961cfa661dabb3b5  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/fast_cores.h
+160528d4108bc4013f84a8e9e5793e8bc43d13ec210ce6d58bdcec43d0580108  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/plugin_dir.h
+e6b0c386779c1e11897a6697fbcba67f39472424aa49bbaff2bdc6886320e9a1  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/popup.h
+c1b8d02dc78e3f92cd6c50ff5412cc0259076857b6e9495c37e2d1da395f063c  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/resample.h
+b7d4c9e78a5ca1cf7b374ca89a061e8aa2fab30a1d2d96b7594d1121c4f407ae  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/sample_draw.h
+3f5cedc459fa4a2116a07fa4299610c6b0748228327ec3c2784f70f9d85446d8  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/sample_page.h
+d78da3269dfed6b1a2d0c588dc9631dc5fa91ec8d8cb4cfa630eae8368fd75a5  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/vst2_wrap.c
+393be966ccbc1f44f2834713b20d0abe03f9bf92d80ea89742c0f5565275a932  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/vst3_abi.h
+cc4d56199a8bab06f3430f9683bb5e3b04671584ea09e1ba7af62aa81d1fcb4e  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/vst3_editor.c
+1d3a45f6dfe6dcf55c4081a564a35e60904c80c7c8009f8c630cc37c1da96c23  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/Source/wrapper/vst3_wrap.c
+f113affef7a92c718299c49cc52a5b4f49a0285972b6b39fd400177934ad2d98  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/VENDORED.md
+65019f9d078daa0894b957c40e26a1802f3b56c0f8f9f4f03bb1c612a5dedf07  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/contract.json
+e42d79c0084041693bf9106dc54b02899dac6cdd0bfaa524c7b2f59a35eaf86d  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/corresponding-source/LICENSE
+fbc0d8e246fc87470aec571e4d599e4ffdd0f2475d6d63ad3bd9e4e31beb4b34  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/corresponding-source/README.md
+60d3dde47aa10fe6ea735e6a0841b84f5e95428824f0445057422ac580dd53f4  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/corresponding-source/src/dsp/drummer_one_voices.h
+8c6ef7f744b04b960804714bd06865629d3870b1c020c52c5c60ae7c84c8d8d8  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/corresponding-source/src/dsp/krautdrums.c
+2850fa0d53d1b240a62a62dd246c5a9fa29f4d1f7ed7c16ee03ee39afa7be46a  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/corresponding-source/src/module.json
+e445f5cfa26c26012417db562d8073a612af17dd64367c33feae13b6e979a66c  release-ports/RHYTHMER - Move - krautdrums - KrautDrums/plugin-meta.xml
+f36271ef3320e141959d3c226da47c2dcdfcc2e7323e82b957126fc0f421ea17  release-ports/RHYTHMER - Move - plaits - Plaits/SOURCE.json
+fb58c25118fa2b839cbaa4c5b280c19101c22dcd9de6c28e4465491178eed77a  release-ports/RHYTHMER - Move - plaits - Plaits/Source/README.md
+09ea2383609bb0c7faa9609f5b1f6bf5b0d0d9ccb2298298579072b5fbcee1d4  release-ports/RHYTHMER - Move - plaits - Plaits/Source/common/move_loader.c
+2f8a1f7eeb6041ddaa449c55ecc250ce1cb38eb2000190bc7772a0fa2e0976e8  release-ports/RHYTHMER - Move - plaits - Plaits/Source/common/move_state.h
+2c575451460b1849b05ea017511ffb570d5f01a8e3f9118d6de79243005108c2  release-ports/RHYTHMER - Move - plaits - Plaits/Source/generated/params.h
+cdb5456376f9c0320793eb2d9edaf860976410ea66eada1208f09957c95ac387  release-ports/RHYTHMER - Move - plaits - Plaits/Source/generated/vst2_wrap.c
+ded771836b21f8d7f4ea70be32c22957c4f23272befa832e8df03c680410dee5  release-ports/RHYTHMER - Move - plaits - Plaits/VENDORED.md
+c05259e0d6befa6441d14a500ff31137485b1d4fea8d2f295430ec6cd91a3f73  release-ports/RHYTHMER - Move - plaits - Plaits/plugin-meta.xml
+48ffa09616a94de9851de8f637763e2f779bbda60dfec0bf88f46aa45c9127d9  release-ports/RHYTHMER - Move - plaits - Plaits/rhythmer-source-name.json
+9f917f177adca307f853ddd379d42b2d7ab34e743c32c37fdfa3d0865ea412c9  release-ports/RHYTHMER - Move - tenebrae - Tenebrae/SOURCE.json
+9d54be59c0417e96e642b973fd9fd3fd2e06652936684803e2623af70a83cc0e  release-ports/RHYTHMER - Move - tenebrae - Tenebrae/VENDORED.md
+34d003f80f55a319a698732af9a4d03feb736985b9ecddbc86689174f53a5665  release-ports/RHYTHMER - Move - tenebrae - Tenebrae/plugin-meta.xml
+f95bc77f4e260e787463b249fb4ad4787046474d1b351913e4b93057605ee0a9  release-ports/RHYTHMER - Move - tenebrae - Tenebrae/rhythmer-source-name.json
+aaadf1671f366e9fb4b7389a5ab77c69a91c27f0c0b15703f18a90596b4f2c63  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/SOURCE.json
+ce8ee66cb52d9d54312bc5d0c3c041ce3bc8eec9f482370b80ccb29b5a9ea66e  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/Open-MPC-MIT-LICENSE.txt
+8d4bdfedc25fa83729692ea6b8afb968302161525c51dd5f52af800d0473a901  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/README.md
+da1fb3edd76748a9e88428414152f97769adc422556cab2bc61c713991f218a5  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/SOURCE-MANIFEST.json
+a14e5a15248a1c9f8001a6c96dee621e84b56afefcf03f36f32aff6b206680e8  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/build-linux.sh
+52af9df37f1a2a3dadbc0785f8753b8cea7606a236a5dbc82c9abfc92c9844d8  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/common/move-sdk/LICENSE
+e6b8933b0bbf843f52101853b0f76e22aa0d7bb8e32fa0b50ccc483a5f79a78e  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/common/move-sdk/UPSTREAM.json
+35d6d67d3dc91b3897d7b6b6d58c5277ec92c8384a68c1be3bebec7948c5f3cf  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/common/move-sdk/plugin_api_v1.h
+09ea2383609bb0c7faa9609f5b1f6bf5b0d0d9ccb2298298579072b5fbcee1d4  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/common/move_loader.c
+42282b4aac25a26c7ec39be967a0d18c4f288f83a03c35b6fb9fa2707a37601f  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/common/move_state.h
+3c1ce58f28ee3bee70af25d491a08dbb432070d1b6a3bbb2c4700052f440a803  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/generated/params.h
+bfc5c6c447b13d7d0feb5516d3189e3789fc878dc4481bd77b74647c8077d2a6  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/generated/vst2_wrap.c
+aaadf1671f366e9fb4b7389a5ab77c69a91c27f0c0b15703f18a90596b4f2c63  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/SOURCE.json
+93248f67c0bc1c1d13f72c77518578ffe15c93b912e5fe42c4062ad21c860320  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/VENDORED.md
+eff685ace3077c7ebd829845b8f26acd01cc223ba25b676300e17895538f7f65  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/contract.json
+f09f53ed6347f32e0843f979066766a268f89161f881522c6d0eb2a5a2ab1647  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/original/README.md
+74bbb7b864943a57b184185b514e6ce9ab82aefd81dccb7ed3bce87a8f6e4650  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/original/src/dsp/weird_dreams.c
+d40b3902bafc36055f24390ea6b6aa4f4101312c8ffbbcdfe64ae223d1c5b21b  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/original/src/module.json
+2dbb109ecda04bc9ad1aba998c00b9f53946f098755101106b972387a231d8ca  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/params.lock
+35599a67136a9776ea6c253c9c2f3792b924d1956ff22f3421702ff1c9090272  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/port/vst.json
+418d16dba568ca5fae583a6966fd45a1aa4ed33beda08db054a07abb7667970f  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/engine.h
+ca138b713de1378fc2f7fa86071d5cc82ab3dcd85e6b9fe6961cfa661dabb3b5  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/fast_cores.h
+160528d4108bc4013f84a8e9e5793e8bc43d13ec210ce6d58bdcec43d0580108  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/plugin_dir.h
+e6b0c386779c1e11897a6697fbcba67f39472424aa49bbaff2bdc6886320e9a1  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/popup.h
+c1b8d02dc78e3f92cd6c50ff5412cc0259076857b6e9495c37e2d1da395f063c  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/resample.h
+b7d4c9e78a5ca1cf7b374ca89a061e8aa2fab30a1d2d96b7594d1121c4f407ae  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/sample_draw.h
+3f5cedc459fa4a2116a07fa4299610c6b0748228327ec3c2784f70f9d85446d8  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/sample_page.h
+d78da3269dfed6b1a2d0c588dc9631dc5fa91ec8d8cb4cfa630eae8368fd75a5  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/vst2_wrap.c
+393be966ccbc1f44f2834713b20d0abe03f9bf92d80ea89742c0f5565275a932  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/vst3_abi.h
+cc4d56199a8bab06f3430f9683bb5e3b04671584ea09e1ba7af62aa81d1fcb4e  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/vst3_editor.c
+1d3a45f6dfe6dcf55c4081a564a35e60904c80c7c8009f8c630cc37c1da96c23  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/Source/wrapper/vst3_wrap.c
+93248f67c0bc1c1d13f72c77518578ffe15c93b912e5fe42c4062ad21c860320  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/VENDORED.md
+eff685ace3077c7ebd829845b8f26acd01cc223ba25b676300e17895538f7f65  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/contract.json
+f09f53ed6347f32e0843f979066766a268f89161f881522c6d0eb2a5a2ab1647  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/corresponding-source/README.md
+74bbb7b864943a57b184185b514e6ce9ab82aefd81dccb7ed3bce87a8f6e4650  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/corresponding-source/src/dsp/weird_dreams.c
+d40b3902bafc36055f24390ea6b6aa4f4101312c8ffbbcdfe64ae223d1c5b21b  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/corresponding-source/src/module.json
+45225998b579ddd58a2470e1c187346bd026473ac16382985643b12623a3d9ed  release-ports/RHYTHMER - Move - weird-dreams - Weird Dreams/plugin-meta.xml
+ba0357ec674e85eefb36fb65aca393a4f9526193110a38e740f644a1b9970a66  release-ports/RHYTHMER - Rhythmer Kit/rhythmer-kit.json
+77fad6704db75b5c84273c9f24ffcebdefc9412fec1e3570cfbe95da1d76006d  release-ports/athousanddetails - VST - 6W6/SOURCE.json
+38c777827a0a9eca139a7734c5a9a90ca2cf51e0d858bc56b84a595bbbebc8e4  release-ports/athousanddetails - VST - 6W6/plugin-meta.xml
+6f4f72cc8e93c963bf8323d4cb6ad98259571446c66d805b3c58b3acd4459e35  release-ports/athousanddetails - VST - 6W6/rhythmer-source-name.json
+19edfa447641aa6d7d7006b5de09cc886ee6ae93a33046739fefeb389acf1baf  release-ports/athousanddetails - VST - 8W8/SOURCE.json
+bdc2a3712aa07dd5ab4d37aa697040d7e24825f78122ff7ef911db23b9365ca0  release-ports/athousanddetails - VST - 8W8/plugin-meta.xml
+b74f8c70431d9ab79b51db61849b4836e471a3b9dc98b53d158b7e2660cb7626  release-ports/athousanddetails - VST - 8W8/rhythmer-source-name.json
+3b2e1ed03a21af8e653e1dfa75c1e74103652d62ed80f24833cbc3f00e6169cd  release-ports/athousanddetails - VST - 9W9/SOURCE.json
+0e0aa95d9d10603e201bca6d1531b7aa24047d56ff40522ea6bac9035376eee9  release-ports/athousanddetails - VST - 9W9/plugin-meta.xml
+7095990de4772359e115871d5d25173548f71a631985fac24ced512e7295257b  release-ports/athousanddetails - VST - 9W9/rhythmer-source-name.json
+dd175d8ed344124cdb65e9e6feccc65636565d88ba77020632f95d47e75684e1  release-ports/athousanddetails - VST - CW-78/SOURCE.json
+1d250d67414ebe041a4c03bc539c30ebc5cf1d11f3862e992bf8198c2b282645  release-ports/athousanddetails - VST - CW-78/plugin-meta.xml
+b2f8011b552d9b8f2010cb9a6042a31f2f626ebb34c828c9b215d665d84e86de  release-ports/athousanddetails - VST - CW-78/rhythmer-source-name.json
+5ebaefc1900117c6c9c690a02c3c8e00dfc6d19fc37880a55e75a81ed812358f  release-ports/sd88me - VST - TR-MPC/SOURCE.json
+7d20c3081bcd0380a237ba25441fa65c52841123dea70f8892104798cf7cefcb  release-ports/sd88me - VST - TR-MPC/plugin-meta.xml
+267e5650f64fe094245b62ce16b21ef84cdeeed11ea98ae80210f73dac371993  release-ports/sd88me - VST - TR-MPC/rhythmer-source-name.json
 0ffb93f8a532f338c4acb1605bed51e5794a67770466557e8b9d1c757a263139  tests/acid_aliases.inc
 d43eadf647b60434e2c31d11b268e7e5a4daccf53dab25cd541be8035592ae7e  tests/acid_reference.c
 9fe6c406a4443127b06b69d1e84c6417ac6be4209a851bc3ac94b30d748fa589  tests/authored_presets.inc
@@ -3739,11 +4101,6 @@ f091907dc7f354a12d8ec4ec06429601b3f8df7f1d878848ab8fa97fb25e4c55  third_party/mo
 ed6fdb3a54b78bb992a2001e832020c63fcdfa7b063b85a421a1533bf3afdb7a  third_party/move/tenebrae/tools/spectro.py
 9bb309f5e763024386459f6f25e62d6349d8343a9e74618d2158d91f514cc98b  third_party/move/tenebrae/tools/tenebrae_tool.c
 ef8d082957b38d57fb69fba60b517f6d9bacbb29489afc516ee8746bae043c26  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.gitattributes
-80017ba941a0cc74dee18834aec7612267ad699d2e9b2eb83ddf01e740619c6f  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.github/workflows/release-6w6.yml
-5aff71a513e9d36978a07d6ef0d26687b217cc8ac2b62bec9073c25b53815bae  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.github/workflows/release-8w8.yml
-0f8662afedff85c019e8fae65ea654ca84ce7d4219465a1a0454df3eb1953a90  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.github/workflows/release-9w9.yml
-876dd406b14e625e103dc909d2a691e3f946cb7cb1e5d21162ea57d8e68569ef  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.github/workflows/release-cw78.yml
-087ea7556f20c667bd5a95d3748c4fa6cbef56ad6d5eb2f72a8bf14f790046a4  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.github/workflows/release-trmpc.yml
 9560cd46d05ff7e524e45f90b48ceee08c03f794fddb994378c85c971ef415a3  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/.gitignore
 3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/LICENSE
 64c01e0e9a735d01b886a6d48135d344ba5fa45f8a20e5c846d058052eed1bf3  third_party/mpc-original/sd88me_mpc-vst-TR-MPC_trmpc-vst-v1.2.1/README.md
@@ -4762,14 +5119,6 @@ c3ea3c6b3fbed14ff795aa74fc6c7c04a9a55c40f6e848526a758f752bc6fc75  tools/sync_run
 ede08078ed2b92f83e300295c46ef726256b6b0f2e0ffbe17dedf2a3eafb060f  tools/test_update_package.py
 e0d6a779c98e3a8ee51f8d9529f133d13389ae20e898b5bc6c0ce0d9453f5515  tools/wrapper_repairs.py
 e10ed09e7aa0a71f5a367367651bb3797f2fac7eedb4b4e0de53dbd3050601fb  vendor/mpc-vst-plugins/.gitattributes
-ea3522ec15136c504863b852ecac861eeee8ecf38d928e58f548d027c17afa8b  vendor/mpc-vst-plugins/.github/pull_request_template.md
-3ada5415496bc5920a50c100b0f9c1f83a83d57dfd0e293395bcd576fc44c7f8  vendor/mpc-vst-plugins/.github/workflows/addin-release.yml
-dfad872e111c1ee7e980c67d3566809839c7175ce97ff26459c5cf3edb2189f8  vendor/mpc-vst-plugins/.github/workflows/catalog.yml
-85acb713551923dfd349c93b0d3b86d60071a9a33727cd929908501cf8591580  vendor/mpc-vst-plugins/.github/workflows/desktop.yml
-2b48b01864a27ec0def3438a5f9dd3393de2514e6835cb1fab7fc3965d7e240d  vendor/mpc-vst-plugins/.github/workflows/discord-release.yml
-ef7cc73b1dd4a5cd0f42c77ef17af526fb8f33b974661da3e88dc7ac89764e69  vendor/mpc-vst-plugins/.github/workflows/patches.yml
-7d2640ba8c4d5e4a9024585671ca9b5bac76c20fc0d401b90fe9b61bd1e7c2e2  vendor/mpc-vst-plugins/.github/workflows/usb-stick.yml
-d92dc3db8029803796f3a296114249f1d79551bf16e26e004754130019e14603  vendor/mpc-vst-plugins/.github/workflows/vst-release.yml
 6019049c9e39ee2bf88f345fae87887162a20b54230c7eb2bca6589387d21495  vendor/mpc-vst-plugins/.gitignore
 a4df2184e3485d8d1973ae266bae1228ab4268971dee63ae4c24c8b5a8f43ddf  vendor/mpc-vst-plugins/.gitmodules
 ce8ee66cb52d9d54312bc5d0c3c041ce3bc8eec9f482370b80ccb29b5a9ea66e  vendor/mpc-vst-plugins/LICENSE
