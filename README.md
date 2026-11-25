@@ -42,6 +42,30 @@ Early beta. Software checks have passed; physical-device installation of this re
 
 The matching RHYTHMER OS **0.3.0** catalogue exposes **24 instrument entries**, **69 Rhythmer Kits** and **3,812 sound selections across 31 source views**, including kit voices and shared Acid choices. These ports currently depend on the RHYTHMER host integration; use the OS full SD package rather than treating this repository as a generic plug-in installer.
 
+### Frodhes
+
+57 original electric-piano, vibraphone and marimba programs.
+
+<img src="assets/engines/frodhes-still.png" width="400" alt="Frodhes in RHYTHMER OS 0.3.0">
+
+### Tenebrae
+
+Eight oscillator models and 164 original programs including Init.
+
+<img src="assets/engines/tenebrae-still.png" width="400" alt="Tenebrae in RHYTHMER OS 0.3.0">
+
+### Amino
+
+<img src="assets/engines/amino-still.png" width="400" alt="Amino — RHYTHMER OS engine screen">
+
+Wavetable synthesis with 324 original presets. Explore layered pads, moving textures, basses and leads.
+
+### Fizzik
+
+<img src="assets/engines/fizzik-still.png" width="400" alt="Fizzik — RHYTHMER OS engine screen">
+
+Physical-modeling synthesis with 31 original presets. Shape the exciter, two resonators, envelopes, modulation and effects.
+
 ## Ports and original sources
 
 | Port directory | Original project | Source record |
@@ -68,18 +92,6 @@ The matching RHYTHMER OS **0.3.0** catalogue exposes **24 instrument entries**, 
 | [move-tenebrae](ports/move-tenebrae) | [Tenebrae](https://github.com/legsmechanical/schwung-tenebrae) | [pinned provenance](ports/move-tenebrae/SOURCE.json) |
 
 Sophie is included under `ports/sophie`, with the original DSP and notices. The seven classic drum variants remain kit-only in the OS. Elixir is the canonical LXR-family adaptation. Acid uses Hortator ACID and Aphex; Break and Rhythmer Kit are host features, not separate original synth ports. Original baseline MPC drum packages retain their names and source records in `third_party/mpc-original`.
-
-### Frodhes
-
-57 original electric-piano, vibraphone and marimba programs.
-
-<img src="assets/engines/frodhes-still.png" width="400" alt="Frodhes in RHYTHMER OS 0.3.0">
-
-### Tenebrae
-
-Eight oscillator models and 164 original programs including Init.
-
-<img src="assets/engines/tenebrae-still.png" width="400" alt="Tenebrae in RHYTHMER OS 0.3.0">
 
 ## Build
 
@@ -110,18 +122,6 @@ Hit-responsive drum geometry, with a restrained input-driven depth response.
 
 Voluntary support helps me keep making music, instruments and open-source tools. Thank you for being part of it.
 <!-- JAZZY-RHYTHMER-PORTFOLIO:END -->
-
-### Amino
-
-<img src="assets/engines/amino-still.png" width="400" alt="Amino native UI">
-
-Wavetable synthesis with 324 original presets. Explore layered pads, moving textures, basses and leads.
-
-### Fizzik
-
-<img src="assets/engines/fizzik-still.png" width="400" alt="Fizzik native UI">
-
-Physical-modeling synthesis with 31 original presets. Shape the exciter, two resonators, envelopes, modulation and effects.
 
 ## Matching release source
 
